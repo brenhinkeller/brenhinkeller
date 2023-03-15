@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 I'm an assistant professor of Earth Sciences at Dartmouth College. I like the Julia programming language.
 
 <!--
