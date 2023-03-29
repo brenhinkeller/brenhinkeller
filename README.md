@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm an assistant professor of Earth Sciences at Dartmouth College. I like the Julia programming language.
 
+🌋🏔🪨💾
 <!--
 **brenhinkeller/brenhinkeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
